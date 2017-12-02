@@ -12,7 +12,6 @@
 
 - [原始需求清单](https://github.com/DDD-MicroService-Kata/petstore-materials/blob/master/EpicStory.md)
 - [API设计模板](https://github.com/DDD-MicroService-Kata/petstore-materials/blob/master/ApiDesignTemplate.md)
-- [基础设施准备](https://github.com/DDD-MicroService-Kata/petstore-materials/blob/master/ManualSetup.md)
 
 ## 概念验证步骤
 
