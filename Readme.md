@@ -31,3 +31,6 @@
 ## 架构分层
 
 ![Layer](https://github.com/DDD-MicroService-Kata/petstore-materials/raw/master/image/Layer.png)
+
+## 系统设计及基础设施
+详见: [系统设计及基础设施](https://github.com/DDD-MicroService-Kata/petstore-materials/blob/master/TechDesign.md)
